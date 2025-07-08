@@ -19,8 +19,7 @@ The BaSyx Playground includes a Docker Compose configuration that sets up a comp
 - [Git](https://git-scm.com/)
 - [Docker](https://www.docker.com/)
 
-> ℹ️ Alternatively you can use Rancher Desktop or Podman
-
+> ℹ️ You can also use alternative container platforms like [Rancher Desktop](https://rancherdesktop.io/) or [Podman](https://podman.io/).
 
 ### Setup
 
