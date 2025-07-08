@@ -64,10 +64,10 @@ The repository already includes sample AAS files:
 
 Once the environment is running, you can access the following services:
 
-- **AAS GUI**: [http://localhost:3000](http://localhost:3000)
-- **AAS Environment**: [http://localhost:8081](http://localhost:8081)
-- **AAS Registry**: [http://localhost:8082](http://localhost:8082)
-- **Submodel Registry**: [http://localhost:8083](http://localhost:8083)
+- **AAS GUI**: http://localhost:3000/swagger-ui/index.html
+- **AAS Environment**: http://localhost:8081/swagger-ui/index.html
+- **AAS Registry**: http://localhost:8082/swagger-ui/index.html
+- **Submodel Registry**: http://localhost:8083/swagger-ui/index.html
 
 ## API Endpoints
 
